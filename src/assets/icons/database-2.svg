@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Database-2--Streamline-Ultimate" clip-path="url(#clip0_137_1475)">
+<path id="Vector" d="M1.21875 5.53223C1.21875 6.67597 2.35463 7.77287 4.3765 8.58162C6.39838 9.39037 9.14063 9.84473 12 9.84473C14.8594 9.84473 17.6016 9.39037 19.6235 8.58162C21.6454 7.77287 22.7812 6.67597 22.7812 5.53223C22.7812 4.38848 21.6454 3.29158 19.6235 2.48283C17.6016 1.67408 14.8594 1.21973 12 1.21973C9.14063 1.21973 6.39838 1.67408 4.3765 2.48283C2.35463 3.29158 1.21875 4.38848 1.21875 5.53223Z" stroke="#9291A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M1.21875 5.53223V12C1.21875 14.3815 6.04588 16.3125 12 16.3125C17.9541 16.3125 22.7812 14.3824 22.7812 12V5.53223" stroke="#9291A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M1.21875 12V18.4688C1.21875 20.8502 6.04588 22.7812 12 22.7812C17.9541 22.7812 22.7812 20.8502 22.7812 18.4688V12" stroke="#9291A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_137_1475">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
